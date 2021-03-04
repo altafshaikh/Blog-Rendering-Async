@@ -37,7 +37,7 @@ A vanilla JS application which fetches data from a external API in JSON format a
 ### Downloading and Running this Project Locally
 1. clone the repository using below command
 ```
-git clone https://github.com/ialtafshaikh/blog
+git clone https://github.com/altafshaikh/Blog-Rendering-Async.git
 ```
 2. And run the index.html using Live server
 
